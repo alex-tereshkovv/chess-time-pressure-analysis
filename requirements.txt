@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+python-chess
+requests
+zstandard
+statsmodels
+scikit-learn
+jupyter
