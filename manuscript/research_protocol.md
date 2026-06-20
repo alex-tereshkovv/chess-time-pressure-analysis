@@ -6,6 +6,12 @@
 
 Alternative descriptive title: **Critical Time Thresholds in Online Chess Decision-Making: A Lichess-Based Study of Move Accuracy Under Time Pressure**
 
+## Author information
+
+**Alexandr Tereshkov**  
+Independent Researcher, Pavlodar, Kazakhstan  
+ORCID: [0009-0002-2255-7777](https://orcid.org/0009-0002-2255-7777)
+
 ## 1. Purpose and contribution
 
 This study will estimate how move quality changes as a player's remaining clock time decreases in rated online chess. Its main contribution is not merely to show that low time and mistakes are correlated, but to test whether the relationship contains identifiable nonlinear thresholds and whether those thresholds differ between blitz and rapid chess.
@@ -212,12 +218,9 @@ The final PDF should be clean before upload. SSRN-specific watermarks or the "pr
 8. Generate and visually verify the final PDF.
 9. Prepare SSRN metadata: title, abstract, keywords, JEL codes if appropriate, author affiliations, and data/code links.
 
-## 12. Information still needed from the author
+## 12. Remaining author decisions
 
-- full author name as it should appear in English;
-- affiliation or `Independent Researcher`;
-- contact email and ORCID, if available;
+- contact email for the manuscript;
 - preferred scope: all eligible players or a high-rated/titled-player study;
 - available compute budget for Stockfish analysis;
 - whether the study should prioritize behavioral science, chess analytics, or econometric methodology in its framing.
-
