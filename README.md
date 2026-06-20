@@ -1,2 +1,28 @@
-# chess-time-pressure-analysis
-A data-science study of how remaining clock time affects move accuracy in online chess using Lichess data.
+# Critical Time Thresholds in Online Chess Decision-Making
+
+This repository contains a data-science research project studying how remaining clock time affects move accuracy in online chess.
+
+## Research Question
+
+Does low remaining clock time increase the probability of inaccurate moves in online blitz and rapid chess games?
+
+## Main Hypothesis
+
+Blunder probability increases when remaining clock time becomes low, especially below critical time thresholds.
+
+## Data
+
+The project uses publicly available Lichess game data.
+
+## Planned Methods
+
+- PGN parsing
+- Clock-time extraction
+- Engine-based centipawn loss
+- Blunder probability analysis
+- Regression modeling
+- Data visualization
+
+## Status
+
+Project in progress.
