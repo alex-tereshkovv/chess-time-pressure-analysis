@@ -1,0 +1,24 @@
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Temporary files
+tmp/
+*.log
+
+# Large source and derived datasets
+*.pgn
+*.pgn.zst
+*.zst
+*.parquet
+*.feather
+*.sqlite
+*.db
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+

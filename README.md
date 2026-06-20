@@ -25,4 +25,8 @@ The project uses publicly available Lichess game data.
 
 ## Status
 
-Project in progress.
+Research design in progress. The current protocol is available at
+[`manuscript/research_protocol.md`](manuscript/research_protocol.md).
+
+The next milestone is an end-to-end pilot that parses Lichess clock comments,
+recomputes engine evaluations, and produces the first move-level analysis table.
